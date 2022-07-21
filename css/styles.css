@@ -3,5 +3,24 @@ body {
   }
   h1 {
     color: black;
-    text-align: center;
+    background-color: white;
+    text-align: left;
+    text-transform: unset;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+    border: 4mm;
+    border-radius: 2in;
+    outline-style: groove;
+    font-size: xx-large;
   }
+  img {
+    float: right;
+  }
+  p {
+    font-size: large;
+  }
+h2 {
+  font-size: x-large;
+  font-variant: small-caps;
+}
+  
